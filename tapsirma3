@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <style>
+            .div{
+                border: 2px solid rgb(158, 153,153);
+                padding: 7px 50px 20px 10px;
+                width: 300px;
+            }
+        </style>
+
+
+    </head>
+    <body>
+        <div class="div">
+        <p class="title">Xizmetimizden kewliniz toldima?</p>
+        <button>AWA</button>
+        <button>YAQ</button> 
+        </div>
+    </body>
+</html>
