@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Div haqqinda</title>
+        <style>
+            .dongelek{
+                width: 100px;
+                height: 100px;
+                border-radius: 50px;
+                background-color: green;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="dongelek"></div>
+    </body>
+</html>
